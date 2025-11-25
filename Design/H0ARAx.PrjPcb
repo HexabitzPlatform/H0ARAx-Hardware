@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GNGXNYEU
 
 [Document3]
-DocumentPath=..\..\..\..\..\Downloads\H0ARAx.PcbDoc
+DocumentPath=H0ARAx.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -204,6 +204,10 @@ DocumentUniqueId=UDXUXTCO
 
 [GeneratedDocument1]
 DocumentPath=..\..\..\..\..\Downloads\Project Outputs for H0ARAx\Design Rule Check - H0ARAx.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for H0ARAx\Design Rule Check - H0ARAx.html
 DItemRevisionGUID=
 
 [Parameter1]
