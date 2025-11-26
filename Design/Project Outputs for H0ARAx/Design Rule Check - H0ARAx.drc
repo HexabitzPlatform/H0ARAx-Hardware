@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\ishma\OneDrive\Desktop\pcb_project\H0ARAx-Hardware\Design\H0ARAx.PcbDoc
 Date     : 11/25/2025
-Time     : 7:23:16 PM
+Time     : 7:41:12 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -34,9 +34,7 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=2mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (1.299mil < 2mil) Between Pad R2-2(-200mil,184.606mil) on Bottom Layer And Via (-240mil,180mil) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [1.299mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.077mil < 2mil) Between Pad U2-5(28.189mil,230mil) on Top Layer And Via (-32.798mil,218.559mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [1.077mil]
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
 Rule Violations :0
@@ -51,6 +49,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 2
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:00
